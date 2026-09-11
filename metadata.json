@@ -1,0 +1,10 @@
+{
+  "name": "MediKiosk",
+  "description": "AI-Powered Clinical History Software Platform",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
